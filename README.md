@@ -10,6 +10,14 @@ NADI reads physiological signals from your wrist and translates them into warmth
 
 This project is the complete interactive prototype and marketing front-end, built as a single scrolling React page.
 
+Try it out:)
+
+NADI Band design: https://lnkd.in/e3Nvm-sK
+
+NADI App: https://lnkd.in/euiAyC_y
+
+Devpost: https://lnkd.in/eUr-Nk_Z
+
 ## Tech Stack
 
 - React 18 with TypeScript
