@@ -1,0 +1,15 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+/* ── NADI global overrides — prevent Tailwind/shadcn from fighting parchment bg ── */
+html, body, #root {
+  background: #F5F0EB !important;
+  color: #1E1508;
+  overflow-x: hidden;
+}
+
+/* Remove default border on all elements from shadcn base layer */
+*, *::before, *::after {
+  border-color: transparent;
+}
