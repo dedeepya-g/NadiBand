@@ -12,11 +12,11 @@ This project is the complete interactive prototype and marketing front-end, buil
 
 Try it out:)
 
-NADI Band design: https://lnkd.in/e3Nvm-sK
+NADI Band design: https://date-thick-58579474.figma.site/
 
-NADI App: https://lnkd.in/euiAyC_y
+NADI App: https://finder-gas-64549737.figma.site/
 
-Devpost: https://lnkd.in/eUr-Nk_Z
+Devpost: https://devpost.com/software/nadi
 
 ## Tech Stack
 
